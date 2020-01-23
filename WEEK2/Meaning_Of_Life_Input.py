@@ -4,7 +4,8 @@
  Print it's difference with 42, the meaning of life
  	"You are n units away from the meaning of life"
 
- use the abs() function to return a positive difference """
+ use the abs() function to return a positive difference 
+"""
 
 guess = input("Which integer is the meaning of life?\n")
 guess = int(guess)
