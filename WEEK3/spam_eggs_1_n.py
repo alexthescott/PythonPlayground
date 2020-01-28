@@ -20,7 +20,7 @@ def spam_and_eggs_for(n):
 
 def spam_and_eggs_while(n):
 	i = 1
-	while i < 41:
+	while i < n:
 		if i % 5 == 0 and i % 2 == 0: 
 			print("spam and eggs")
 		elif i % 5 == 0: 
