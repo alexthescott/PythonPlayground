@@ -24,8 +24,6 @@ def closest_points_tuples(points):
 
 	dist = 0
 	shortPoints = None
-	tempPoints = points
-	
 	for i, p, in enumerate(points):
 		for j, q, in enumerate(points):
 			if i < j:
@@ -36,7 +34,6 @@ def closest_points_tuples(points):
 					shortPoints = (p, q)
 					dist = tempDist
 		if i >= len(points): break
-
 	print(dist)
 	return shortPoints
 	
