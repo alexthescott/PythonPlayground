@@ -1,4 +1,4 @@
-""" New_Line_Three_Ways.py Alex Scott 2020
+""" three_print_question.py Alex Scott 2020
 
  print:
 

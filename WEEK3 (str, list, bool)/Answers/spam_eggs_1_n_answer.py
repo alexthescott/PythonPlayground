@@ -1,4 +1,4 @@
-""" spam_eggs_1_n.py Alex Scott 2020
+""" spam_eggs_1_n_answer.py Alex Scott 2020
  if perfectly divisable by 2, print spam
  if perfectly divisable by 5, print eggs
  if perfectly divisable by 2 and 5, print spam and eggs

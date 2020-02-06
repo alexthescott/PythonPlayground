@@ -1,7 +1,8 @@
-""" first_half.py Alex Scott 2020
+""" first_half_answer.py Alex Scott 2020
  taken from https://codingbat.com/prob/p107010
  
- write a function which returns only the first half of a string
+ Write a function which returns the first half of a string
+ Assume we want the floor (don't include middle character of odd size string)
  """
 
 def first_half(word):

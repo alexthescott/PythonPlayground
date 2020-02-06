@@ -1,4 +1,7 @@
-""" index_of_capitals.py Alex Scott 2020 """
+""" index_of_capitals_answer.py Alex Scott 2020 
+
+ Write a function which accepts a str, and returns a list of indexes of capital characters
+"""
 
 def index_of_capitals(word):
 	"""Given a string, return a list of capital char indexes"""

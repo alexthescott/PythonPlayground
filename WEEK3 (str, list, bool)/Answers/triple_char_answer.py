@@ -1,4 +1,4 @@
-""" triple_char.py Alex Scott 2020
+""" triple_char_answer.py Alex Scott 2020
  obviously influenced by https://codingbat.com/prob/p170842
 """
 
@@ -7,7 +7,6 @@ def triple_char(str):
 
 	Parameters: str
 	Returns: a new string with each char * 3
-
 	"""
 	temp = ""
 	for i in str:

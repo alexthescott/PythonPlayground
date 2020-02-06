@@ -1,4 +1,4 @@
-""" enough_bricks.py Alex Scott 2020 
+""" enough_bricks_answer.py Alex Scott 2020 
  taken from https://codingbat.com/prob/p118406
 
  Params: small, big, goal
@@ -12,7 +12,7 @@
 
  two solutions presented
  	once with loops (alright)
- 	once without loops (much better)
+ 	once without loops 🎉
 
  """
 

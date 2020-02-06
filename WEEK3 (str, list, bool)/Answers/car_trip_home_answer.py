@@ -1,4 +1,4 @@
-""" car_trip_home.py Alex Scott 2020 
+""" car_trip_home_answer.py Alex Scott 2020 
  taken from https://www.codewars.com/kata/will-you-make-it/train/python 
  
  You were camping, and you realize that you are m miles from a pump

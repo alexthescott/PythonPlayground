@@ -1,4 +1,4 @@
-""" dog_cat.py Alex
+""" dog_cat_answer.py Alex
  blatent rip off of https://codingbat.com/prob/p164876
 
  write a function which accepts a string, and returns true
@@ -12,7 +12,10 @@
 def dog_cat_pythonic(word):
 	return word.count("dog") == word.count("cat")
 
-# if we don't know that funciton exists, it's a bit complicated...
+"""
+ this makes me weep. Props if you made it this far, 
+ but look how beautiful the implementation above is
+"""
 def dog_cat_nieve(word):
 	bothCount = 0
 	for i in range(len(word)):
@@ -25,4 +28,4 @@ def dog_cat_nieve(word):
 	return bothCount == 0
 
 assert dog_cat_nieve("woah look, both a dog, and a cat at the same place") == True
-assert dog_cat_pythonic("I wonder if the dog knows the cat") == True
+assert dog_cat_pythonic("I wonder if the dog knows the cat, or if the dog has another friend") == False
